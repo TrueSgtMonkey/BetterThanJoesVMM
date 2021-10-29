@@ -1,0 +1,1626 @@
+ * * * Done mallocing a new Page Table * * *
+Dumping Page Directory:
+pd[0].v   = 0x7fb7f24059d0
+pd[0].lru = 0
+
+Dumping Page Tables:
+Page Dir Entry: 0
+
+ * * * Done mallocing a new page Malloc User Page * * * 
+Dumping Page Directory:
+pd[0].v   = 0x7fb7f24059d0
+pd[0].lru = 0
+
+Dumping Page Tables:
+Page Dir entry 0:
+pt[6].v = 0x7fb7f2405a10, lru = 6, written
+
+ * * * Done mallocing a new page Malloc User Page * * * 
+Dumping Page Directory:
+pd[0].v   = 0x7fb7f24059d0
+pd[0].lru = 0
+
+Dumping Page Tables:
+Page Dir entry 0:
+pt[0].v = 0x7fb7f2405a60, lru = 0
+pt[6].v = 0x7fb7f2405a10, lru = 6, written
+
+ * * * Done mallocing a new page Malloc User Page * * * 
+Dumping Page Directory:
+pd[0].v   = 0x7fb7f24059d0
+pd[0].lru = 0
+
+Dumping Page Tables:
+Page Dir entry 0:
+pt[0].v = 0x7fb7f2405a60, lru = 0
+pt[6].v = 0x7fb7f2405a10, lru = 6, written
+pt[16].v = 0x7fb7f2405a90, lru = 16, written
+
+ * * * Done mallocing a new page Malloc User Page * * * 
+Dumping Page Directory:
+pd[0].v   = 0x7fb7f24059d0
+pd[0].lru = 0
+
+Dumping Page Tables:
+Page Dir entry 0:
+pt[0].v = 0x7fb7f2405a60, lru = 0
+pt[6].v = 0x7fb7f2405a10, lru = 6, written
+pt[9].v = 0x7fb7f2405ac0, lru = 9, written
+pt[16].v = 0x7fb7f2405a90, lru = 16, written
+
+ * * * Done mallocing a new page Malloc User Page * * * 
+Dumping Page Directory:
+pd[0].v   = 0x7fb7f24059d0
+pd[0].lru = 0
+
+Dumping Page Tables:
+Page Dir entry 0:
+pt[0].v = 0x7fb7f2405a60, lru = 0
+pt[6].v = 0x7fb7f2405a10, lru = 6, written
+pt[8].v = 0x7fb7f2405af0, lru = 8, written
+pt[9].v = 0x7fb7f2405ac0, lru = 9, written
+pt[16].v = 0x7fb7f2405a90, lru = 16, written
+
+ * * * Done mallocing a new page Malloc User Page * * * 
+Dumping Page Directory:
+pd[0].v   = 0x7fb7f24059d0
+pd[0].lru = 0
+
+Dumping Page Tables:
+Page Dir entry 0:
+pt[0].v = 0x7fb7f2405a60, lru = 0
+pt[6].v = 0x7fb7f2405a10, lru = 6, written
+pt[8].v = 0x7fb7f2405af0, lru = 8, written
+pt[9].v = 0x7fb7f2405ac0, lru = 9, written
+pt[10].v = 0x7fb7f2405b20, lru = 10
+pt[16].v = 0x7fb7f2405a90, lru = 16, written
+
+ * * * Done mallocing a new page Malloc User Page * * * 
+Dumping Page Directory:
+pd[0].v   = 0x7fb7f24059d0
+pd[0].lru = 0
+
+Dumping Page Tables:
+Page Dir entry 0:
+pt[0].v = 0x7fb7f2405a60, lru = 0
+pt[2].v = 0x7fb7f2405b50, lru = 2
+pt[6].v = 0x7fb7f2405a10, lru = 6, written
+pt[8].v = 0x7fb7f2405af0, lru = 8, written
+pt[9].v = 0x7fb7f2405ac0, lru = 9, written
+pt[10].v = 0x7fb7f2405b20, lru = 10
+pt[16].v = 0x7fb7f2405a90, lru = 16, written
+
+ * * * Done mallocing a new page Malloc User Page * * * 
+Dumping Page Directory:
+pd[0].v   = 0x7fb7f24059d0
+pd[0].lru = 0
+
+Dumping Page Tables:
+Page Dir entry 0:
+pt[0].v = 0x7fb7f2405b80, lru = 0
+pt[2].v = 0x7fb7f2405b50, lru = 2
+pt[6].v = 0x7fb7f2405a10, lru = 6, written
+pt[8].v = 0x7fb7f2405af0, lru = 8, written
+pt[9].v = 0x7fb7f2405ac0, lru = 9, written
+pt[10].v = 0x7fb7f2405b20, lru = 10
+pt[16].v = 0x7fb7f2405a90, lru = 16, written
+
+ * * * Done mallocing a new page Malloc User Page * * * 
+Dumping Page Directory:
+pd[0].v   = 0x7fb7f24059d0
+pd[0].lru = 0
+
+Dumping Page Tables:
+Page Dir entry 0:
+pt[0].v = 0x7fb7f2405b80, lru = 0
+pt[2].v = 0x7fb7f2405b50, lru = 2
+pt[6].v = 0x7fb7f2405a10, lru = 6, written
+pt[8].v = 0x7fb7f2405af0, lru = 8, written
+pt[9].v = 0x7fb7f2405ac0, lru = 9, written
+pt[10].v = 0x7fb7f2405b20, lru = 10
+pt[11].v = 0x7fb7f2405bb0, lru = 11
+pt[16].v = 0x7fb7f2405a90, lru = 16, written
+
+ * * * Done mallocing a new page Malloc User Page * * * 
+Dumping Page Directory:
+pd[0].v   = 0x7fb7f24059d0
+pd[0].lru = 0
+
+Dumping Page Tables:
+Page Dir entry 0:
+pt[0].v = 0x7fb7f2405b80, lru = 0
+pt[2].v = 0x7fb7f2405b50, lru = 2
+pt[4].v = 0x7fb7f2405be0, lru = 4, written
+pt[6].v = 0x7fb7f2405a10, lru = 6, written
+pt[8].v = 0x7fb7f2405af0, lru = 8, written
+pt[9].v = 0x7fb7f2405ac0, lru = 9, written
+pt[10].v = 0x7fb7f2405b20, lru = 10
+pt[11].v = 0x7fb7f2405bb0, lru = 11
+pt[16].v = 0x7fb7f2405a90, lru = 16, written
+
+ * * * Done mallocing a new page Malloc User Page * * * 
+Dumping Page Directory:
+pd[0].v   = 0x7fb7f24059d0
+pd[0].lru = 0
+
+Dumping Page Tables:
+Page Dir entry 0:
+pt[0].v = 0x7fb7f2405b80, lru = 0
+pt[1].v = 0x7fb7f2405c10, lru = 1, written
+pt[2].v = 0x7fb7f2405b50, lru = 2
+pt[4].v = 0x7fb7f2405be0, lru = 4, written
+pt[6].v = 0x7fb7f2405a10, lru = 6, written
+pt[8].v = 0x7fb7f2405af0, lru = 8, written
+pt[9].v = 0x7fb7f2405ac0, lru = 9, written
+pt[10].v = 0x7fb7f2405b20, lru = 10
+pt[11].v = 0x7fb7f2405bb0, lru = 11
+pt[16].v = 0x7fb7f2405a90, lru = 16, written
+
+ * * * Done mallocing a new page Malloc User Page * * * 
+Dumping Page Directory:
+pd[0].v   = 0x7fb7f24059d0
+pd[0].lru = 0
+
+Dumping Page Tables:
+Page Dir entry 0:
+pt[0].v = 0x7fb7f2405b80, lru = 0
+pt[1].v = 0x7fb7f2405c10, lru = 1, written
+pt[2].v = 0x7fb7f2405b50, lru = 2, written
+pt[4].v = 0x7fb7f2405be0, lru = 4, written
+pt[6].v = 0x7fb7f2405a10, lru = 6, written
+pt[8].v = 0x7fb7f2405af0, lru = 8, written
+pt[9].v = 0x7fb7f2405ac0, lru = 9, written
+pt[10].v = 0x7fb7f2405b20, lru = 10
+pt[11].v = 0x7fb7f2405bb0, lru = 11
+pt[12].v = 0x7fb7f2405c40, lru = 12, written
+pt[16].v = 0x7fb7f2405a90, lru = 16, written
+
+ * * * Done mallocing a new page Malloc User Page * * * 
+Dumping Page Directory:
+pd[0].v   = 0x7fb7f24059d0
+pd[0].lru = 0
+
+Dumping Page Tables:
+Page Dir entry 0:
+pt[0].v = 0x7fb7f2405b80, lru = 0
+pt[1].v = 0x7fb7f2405c10, lru = 1, written
+pt[2].v = 0x7fb7f2405b50, lru = 2, written
+pt[4].v = 0x7fb7f2405be0, lru = 4, written
+pt[6].v = 0x7fb7f25040d0, lru = 6, written
+pt[8].v = 0x7fb7f2405af0, lru = 8, written
+pt[9].v = 0x7fb7f2405ac0, lru = 9, written
+pt[10].v = 0x7fb7f2405b20, lru = 10
+pt[11].v = 0x7fb7f2405bb0, lru = 11
+pt[12].v = 0x7fb7f2405c40, lru = 12, written
+pt[16].v = 0x7fb7f2405a90, lru = 16, written
+
+ * * * Done mallocing a new page Malloc User Page * * * 
+Dumping Page Directory:
+pd[0].v   = 0x7fb7f24059d0
+pd[0].lru = 0
+
+Dumping Page Tables:
+Page Dir entry 0:
+pt[0].v = 0x7fb7f2405b80, lru = 0
+pt[1].v = 0x7fb7f2405c10, lru = 1, written
+pt[2].v = 0x7fb7f2405b50, lru = 2, written
+pt[4].v = 0x7fb7f2405be0, lru = 4, written
+pt[6].v = 0x7fb7f25040d0, lru = 6, written
+pt[8].v = 0x7fb7f2405af0, lru = 8, written
+pt[9].v = 0x7fb7f2405ac0, lru = 9, written
+pt[10].v = 0x7fb7f2405b20, lru = 10
+pt[11].v = 0x7fb7f2405bb0, lru = 11
+pt[12].v = 0x7fb7f2405c40, lru = 12, written
+pt[15].v = 0x7fb7f2504120, lru = 15, written
+pt[16].v = 0x7fb7f2405a90, lru = 16, written
+
+ * * * Done mallocing a new page Malloc User Page * * * 
+Dumping Page Directory:
+pd[0].v   = 0x7fb7f24059d0
+pd[0].lru = 0
+
+Dumping Page Tables:
+Page Dir entry 0:
+pt[0].v = 0x7fb7f2405b80, lru = 0
+pt[1].v = 0x7fb7f2405c10, lru = 1, written
+pt[2].v = 0x7fb7f2405b50, lru = 2, written
+pt[4].v = 0x7fb7f2405be0, lru = 4, written
+pt[6].v = 0x7fb7f25040d0, lru = 6, written
+pt[8].v = 0x7fb7f2405af0, lru = 8, written
+pt[9].v = 0x7fb7f2405ac0, lru = 9, written
+pt[10].v = 0x7fb7f2405b20, lru = 10
+pt[11].v = 0x7fb7f2405bb0, lru = 11
+pt[12].v = 0x7fb7f2405c40, lru = 12, written
+pt[14].v = 0x7fb7f2504150, lru = 14, written
+pt[15].v = 0x7fb7f2504120, lru = 15, written
+pt[16].v = 0x7fb7f2405a90, lru = 16, written
+
+ * * * Done mallocing a new page Malloc User Page * * * 
+Dumping Page Directory:
+pd[0].v   = 0x7fb7f24059d0
+pd[0].lru = 0
+
+Dumping Page Tables:
+Page Dir entry 0:
+pt[0].v = 0x7fb7f2405b80, lru = 0
+pt[1].v = 0x7fb7f2405c10, lru = 1, written
+pt[2].v = 0x7fb7f2405b50, lru = 2, written
+pt[4].v = 0x7fb7f2405be0, lru = 4, written
+pt[6].v = 0x7fb7f25040d0, lru = 6, written
+pt[8].v = 0x7fb7f2405af0, lru = 8, written
+pt[9].v = 0x7fb7f2405ac0, lru = 9, written
+pt[10].v = 0x7fb7f2405b20, lru = 10
+pt[11].v = 0x7fb7f2405bb0, lru = 11
+pt[12].v = 0x7fb7f2405c40, lru = 12, written
+pt[14].v = 0x7fb7f2504180, lru = 14, written
+pt[15].v = 0x7fb7f2504120, lru = 15, written
+pt[16].v = 0x7fb7f2405a90, lru = 16, written
+
+ * * * Done mallocing a new page Malloc User Page * * * 
+Dumping Page Directory:
+pd[0].v   = 0x7fb7f24059d0
+pd[0].lru = 0
+
+Dumping Page Tables:
+Page Dir entry 0:
+pt[0].v = 0x7fb7f2405b80, lru = 0
+pt[1].v = 0x7fb7f2405c10, lru = 1, written
+pt[2].v = 0x7fb7f2405b50, lru = 2, written
+pt[4].v = 0x7fb7f2405be0, lru = 4, written
+pt[6].v = 0x7fb7f25040d0, lru = 6, written
+pt[8].v = 0x7fb7f2405af0, lru = 8, written
+pt[9].v = 0x7fb7f2405ac0, lru = 9, written
+pt[10].v = 0x7fb7f2405b20, lru = 10
+pt[11].v = 0x7fb7f2405bb0, lru = 11
+pt[12].v = 0x7fb7f2405c40, lru = 12, written
+pt[13].v = 0x7fb7f25041b0, lru = 13, written
+pt[14].v = 0x7fb7f2504180, lru = 14, written
+pt[15].v = 0x7fb7f2504120, lru = 15, written
+pt[16].v = 0x7fb7f2405a90, lru = 16, written
+
+ * * * Done mallocing a new page Malloc User Page * * * 
+Dumping Page Directory:
+pd[0].v   = 0x7fb7f24059d0
+pd[0].lru = 0
+
+Dumping Page Tables:
+Page Dir entry 0:
+pt[0].v = 0x7fb7f2405b80, lru = 0
+pt[1].v = 0x7fb7f2405c10, lru = 1, written
+pt[2].v = 0x7fb7f2405b50, lru = 2, written
+pt[3].v = 0x7fb7f25041e0, lru = 3, written
+pt[4].v = 0x7fb7f2405be0, lru = 4, written
+pt[6].v = 0x7fb7f25040d0, lru = 6, written
+pt[8].v = 0x7fb7f2405af0, lru = 8, written
+pt[9].v = 0x7fb7f2405ac0, lru = 9, written
+pt[10].v = 0x7fb7f2405b20, lru = 10
+pt[11].v = 0x7fb7f2405bb0, lru = 11
+pt[12].v = 0x7fb7f2405c40, lru = 12, written
+pt[13].v = 0x7fb7f25041b0, lru = 13, written
+pt[14].v = 0x7fb7f2504180, lru = 14, written
+pt[15].v = 0x7fb7f2504120, lru = 15, written
+pt[16].v = 0x7fb7f2405a90, lru = 16, written
+
+ * * * Done mallocing a new page Malloc User Page * * * 
+Dumping Page Directory:
+pd[0].v   = 0x7fb7f24059d0
+pd[0].lru = 0
+
+Dumping Page Tables:
+Page Dir entry 0:
+pt[0].v = 0x7fb7f2405b80, lru = 0
+pt[1].v = 0x7fb7f2405c10, lru = 1, written
+pt[2].v = 0x7fb7f2405b50, lru = 2, written
+pt[3].v = 0x7fb7f25041e0, lru = 3, written
+pt[4].v = 0x7fb7f2405be0, lru = 4, written
+pt[6].v = 0x7fb7f2504210, lru = 6
+pt[8].v = 0x7fb7f2405af0, lru = 8, written
+pt[9].v = 0x7fb7f2405ac0, lru = 9, written
+pt[10].v = 0x7fb7f2405b20, lru = 10
+pt[11].v = 0x7fb7f2405bb0, lru = 11
+pt[12].v = 0x7fb7f2405c40, lru = 12, written
+pt[13].v = 0x7fb7f25041b0, lru = 13, written
+pt[14].v = 0x7fb7f2504180, lru = 14, written
+pt[15].v = 0x7fb7f2504120, lru = 15, written
+pt[16].v = 0x7fb7f2405a90, lru = 16, written
+
+ * * * Done mallocing a new page Malloc User Page * * * 
+Dumping Page Directory:
+pd[0].v   = 0x7fb7f24059d0
+pd[0].lru = 0
+
+Dumping Page Tables:
+Page Dir entry 0:
+pt[0].v = 0x7fb7f2405b80, lru = 0
+pt[1].v = 0x7fb7f2405c10, lru = 1, written
+pt[2].v = 0x7fb7f2405b50, lru = 2, written
+pt[3].v = 0x7fb7f25041e0, lru = 3, written
+pt[4].v = 0x7fb7f2405be0, lru = 4, written
+pt[6].v = 0x7fb7f2504210, lru = 6
+pt[8].v = 0x7fb7f2405af0, lru = 8, written
+pt[9].v = 0x7fb7f2504240, lru = 9, written
+pt[10].v = 0x7fb7f2405b20, lru = 10
+pt[11].v = 0x7fb7f2405bb0, lru = 11
+pt[12].v = 0x7fb7f2405c40, lru = 12, written
+pt[13].v = 0x7fb7f25041b0, lru = 13, written
+pt[14].v = 0x7fb7f2504180, lru = 14, written
+pt[15].v = 0x7fb7f2504120, lru = 15, written
+pt[16].v = 0x7fb7f2405a90, lru = 16, written
+
+ * * * Done mallocing a new page Malloc User Page * * * 
+Dumping Page Directory:
+pd[0].v   = 0x7fb7f24059d0
+pd[0].lru = 0
+
+Dumping Page Tables:
+Page Dir entry 0:
+pt[0].v = 0x7fb7f2405b80, lru = 0
+pt[1].v = 0x7fb7f2405c10, lru = 1, written
+pt[2].v = 0x7fb7f2405b50, lru = 2, written
+pt[3].v = 0x7fb7f25041e0, lru = 3, written
+pt[4].v = 0x7fb7f2405be0, lru = 4, written
+pt[6].v = 0x7fb7f2504210, lru = 6
+pt[8].v = 0x7fb7f2405af0, lru = 8, written
+pt[9].v = 0x7fb7f2504270, lru = 9
+pt[10].v = 0x7fb7f2405b20, lru = 10
+pt[11].v = 0x7fb7f2405bb0, lru = 11
+pt[12].v = 0x7fb7f2405c40, lru = 12, written
+pt[13].v = 0x7fb7f25041b0, lru = 13, written
+pt[14].v = 0x7fb7f2504180, lru = 14, written
+pt[15].v = 0x7fb7f2504120, lru = 15, written
+pt[16].v = 0x7fb7f2405a90, lru = 16, written
+
+ * * * Done mallocing a new page Malloc User Page * * * 
+Dumping Page Directory:
+pd[0].v   = 0x7fb7f24059d0
+pd[0].lru = 0
+
+Dumping Page Tables:
+Page Dir entry 0:
+pt[0].v = 0x7fb7f2405b80, lru = 0
+pt[1].v = 0x7fb7f2405c10, lru = 1, written
+pt[2].v = 0x7fb7f2405b50, lru = 2, written
+pt[3].v = 0x7fb7f25041e0, lru = 3, written
+pt[4].v = 0x7fb7f2405be0, lru = 4, written
+pt[6].v = 0x7fb7f25042a0, lru = 6
+pt[8].v = 0x7fb7f2405af0, lru = 8, written
+pt[9].v = 0x7fb7f2504270, lru = 9
+pt[10].v = 0x7fb7f2405b20, lru = 10
+pt[11].v = 0x7fb7f2405bb0, lru = 11
+pt[12].v = 0x7fb7f2405c40, lru = 12, written
+pt[13].v = 0x7fb7f25041b0, lru = 13, written
+pt[14].v = 0x7fb7f2504180, lru = 14, written
+pt[15].v = 0x7fb7f2504120, lru = 15, written
+pt[16].v = 0x7fb7f2405a90, lru = 16, written
+
+ * * * Done mallocing a new page Malloc User Page * * * 
+Dumping Page Directory:
+pd[0].v   = 0x7fb7f24059d0
+pd[0].lru = 0
+
+Dumping Page Tables:
+Page Dir entry 0:
+pt[0].v = 0x7fb7f2405b80, lru = 0
+pt[1].v = 0x7fb7f25042d0, lru = 1, written
+pt[2].v = 0x7fb7f2405b50, lru = 2, written
+pt[3].v = 0x7fb7f25041e0, lru = 3, written
+pt[4].v = 0x7fb7f2405be0, lru = 4, written
+pt[6].v = 0x7fb7f25042a0, lru = 6
+pt[8].v = 0x7fb7f2405af0, lru = 8, written
+pt[9].v = 0x7fb7f2405ac0, lru = 9
+pt[10].v = 0x7fb7f2405b20, lru = 10
+pt[11].v = 0x7fb7f2405bb0, lru = 11
+pt[12].v = 0x7fb7f2405c40, lru = 12, written
+pt[13].v = 0x7fb7f25041b0, lru = 13, written
+pt[14].v = 0x7fb7f2504180, lru = 14, written
+pt[15].v = 0x7fb7f2504120, lru = 15, written
+pt[16].v = 0x7fb7f2405a90, lru = 16, written
+
+ * * * Done mallocing a new page Malloc User Page * * * 
+Dumping Page Directory:
+pd[0].v   = 0x7fb7f24059d0
+pd[0].lru = 0
+
+Dumping Page Tables:
+Page Dir entry 0:
+pt[0].v = 0x7fb7f2405b80, lru = 0
+pt[1].v = 0x7fb7f25042d0, lru = 1, written
+pt[2].v = 0x7fb7f2405c10, lru = 2, written
+pt[3].v = 0x7fb7f25041e0, lru = 3, written
+pt[4].v = 0x7fb7f2405be0, lru = 4, written
+pt[6].v = 0x7fb7f25042a0, lru = 6
+pt[8].v = 0x7fb7f2405af0, lru = 8, written
+pt[9].v = 0x7fb7f2405ac0, lru = 9
+pt[10].v = 0x7fb7f2604090, lru = 10
+pt[11].v = 0x7fb7f2405bb0, lru = 11
+pt[12].v = 0x7fb7f2405c40, lru = 12, written
+pt[13].v = 0x7fb7f2405b50, lru = 13, written
+pt[14].v = 0x7fb7f2504180, lru = 14, written
+pt[15].v = 0x7fb7f2504120, lru = 15, written
+pt[16].v = 0x7fb7f2405a90, lru = 16, written
+
+ * * * Done mallocing a new page Malloc User Page * * * 
+Dumping Page Directory:
+pd[0].v   = 0x7fb7f24059d0
+pd[0].lru = 0
+
+Dumping Page Tables:
+Page Dir entry 0:
+pt[0].v = 0x7fb7f2405b80, lru = 0
+pt[1].v = 0x7fb7f2504300, lru = 1, written
+pt[2].v = 0x7fb7f2405c10, lru = 2, written
+pt[3].v = 0x7fb7f25041e0, lru = 3, written
+pt[4].v = 0x7fb7f2405be0, lru = 4, written
+pt[6].v = 0x7fb7f25042a0, lru = 6
+pt[8].v = 0x7fb7f2405af0, lru = 8, written
+pt[9].v = 0x7fb7f2405ac0, lru = 9
+pt[10].v = 0x7fb7f2604090, lru = 10
+pt[11].v = 0x7fb7f2405bb0, lru = 11
+pt[12].v = 0x7fb7f2405c40, lru = 12, written
+pt[13].v = 0x7fb7f2405b50, lru = 13, written
+pt[14].v = 0x7fb7f2504180, lru = 14, written
+pt[15].v = 0x7fb7f2504120, lru = 15, written
+pt[16].v = 0x7fb7f2405a90, lru = 16, written
+
+ * * * Done mallocing a new page Malloc User Page * * * 
+Dumping Page Directory:
+pd[0].v   = 0x7fb7f24059d0
+pd[0].lru = 0
+
+Dumping Page Tables:
+Page Dir entry 0:
+pt[0].v = 0x7fb7f2405b80, lru = 0
+pt[1].v = 0x7fb7f2504300, lru = 1, written
+pt[2].v = 0x7fb7f2405c10, lru = 2, written
+pt[3].v = 0x7fb7f25041e0, lru = 3, written
+pt[4].v = 0x7fb7f2405be0, lru = 4, written
+pt[5].v = 0x7fb7f2504330, lru = 5, written
+pt[6].v = 0x7fb7f25042a0, lru = 6
+pt[8].v = 0x7fb7f2405af0, lru = 8, written
+pt[9].v = 0x7fb7f2405ac0, lru = 9
+pt[10].v = 0x7fb7f2604090, lru = 10
+pt[11].v = 0x7fb7f2405bb0, lru = 11
+pt[12].v = 0x7fb7f2405c40, lru = 12, written
+pt[13].v = 0x7fb7f2405b50, lru = 13, written
+pt[14].v = 0x7fb7f2504180, lru = 14, written
+pt[15].v = 0x7fb7f2504120, lru = 15, written
+pt[16].v = 0x7fb7f2405a90, lru = 16, written
+
+ * * * Done mallocing a new page Malloc User Page * * * 
+Dumping Page Directory:
+pd[0].v   = 0x7fb7f24059d0
+pd[0].lru = 0
+
+Dumping Page Tables:
+Page Dir entry 0:
+pt[0].v = 0x7fb7f2405b80, lru = 0
+pt[1].v = 0x7fb7f2504360, lru = 1
+pt[2].v = 0x7fb7f2405c10, lru = 2, written
+pt[3].v = 0x7fb7f25041e0, lru = 3, written
+pt[4].v = 0x7fb7f2405be0, lru = 4, written
+pt[5].v = 0x7fb7f2504330, lru = 5, written
+pt[6].v = 0x7fb7f25042a0, lru = 6
+pt[8].v = 0x7fb7f2405af0, lru = 8, written
+pt[9].v = 0x7fb7f2405ac0, lru = 9
+pt[10].v = 0x7fb7f2604090, lru = 10
+pt[11].v = 0x7fb7f2405bb0, lru = 11
+pt[12].v = 0x7fb7f2405c40, lru = 12, written
+pt[13].v = 0x7fb7f2405b50, lru = 13, written
+pt[14].v = 0x7fb7f2504180, lru = 14, written
+pt[15].v = 0x7fb7f2504120, lru = 15, written
+pt[16].v = 0x7fb7f2405a90, lru = 16, written
+
+ * * * Done mallocing a new page Malloc User Page * * * 
+Dumping Page Directory:
+pd[0].v   = 0x7fb7f24059d0
+pd[0].lru = 0
+
+Dumping Page Tables:
+Page Dir entry 0:
+pt[0].v = 0x7fb7f2405b80, lru = 0
+pt[1].v = 0x7fb7f2504360, lru = 1
+pt[2].v = 0x7fb7f2405c10, lru = 2, written
+pt[3].v = 0x7fb7f25041e0, lru = 3, written
+pt[4].v = 0x7fb7f2405be0, lru = 4, written
+pt[5].v = 0x7fb7f2504330, lru = 5, written
+pt[6].v = 0x7fb7f25042a0, lru = 6
+pt[8].v = 0x7fb7f2405af0, lru = 8, written
+pt[9].v = 0x7fb7f2405ac0, lru = 9
+pt[10].v = 0x7fb7f2604090, lru = 10
+pt[11].v = 0x7fb7f2405bb0, lru = 11
+pt[12].v = 0x7fb7f2405c40, lru = 12, written
+pt[13].v = 0x7fb7f2504390, lru = 13
+pt[14].v = 0x7fb7f2504180, lru = 14, written
+pt[15].v = 0x7fb7f2504120, lru = 15, written
+pt[16].v = 0x7fb7f2405a90, lru = 16, written
+
+ * * * Done mallocing a new page Malloc User Page * * * 
+Dumping Page Directory:
+pd[0].v   = 0x7fb7f24059d0
+pd[0].lru = 0
+
+Dumping Page Tables:
+Page Dir entry 0:
+pt[0].v = 0x7fb7f2405b80, lru = 0
+pt[1].v = 0x7fb7f2504360, lru = 1
+pt[2].v = 0x7fb7f2405c10, lru = 2, written
+pt[3].v = 0x7fb7f25041e0, lru = 3, written
+pt[4].v = 0x7fb7f2405be0, lru = 4, written
+pt[5].v = 0x7fb7f2504330, lru = 5, written
+pt[6].v = 0x7fb7f25042a0, lru = 6
+pt[8].v = 0x7fb7f2405af0, lru = 8, written
+pt[9].v = 0x7fb7f2405ac0, lru = 9
+pt[10].v = 0x7fb7f2604090, lru = 10
+pt[11].v = 0x7fb7f2405bb0, lru = 11
+pt[12].v = 0x7fb7f2405c40, lru = 12, written
+pt[13].v = 0x7fb7f25043c0, lru = 13
+pt[14].v = 0x7fb7f2504180, lru = 14, written
+pt[15].v = 0x7fb7f2504120, lru = 15, written
+pt[16].v = 0x7fb7f2405a90, lru = 16, written
+
+ * * * Done mallocing a new page Malloc User Page * * * 
+Dumping Page Directory:
+pd[0].v   = 0x7fb7f24059d0
+pd[0].lru = 0
+
+Dumping Page Tables:
+Page Dir entry 0:
+pt[0].v = 0x7fb7f2405b80, lru = 0
+pt[1].v = 0x7fb7f2504360, lru = 1
+pt[2].v = 0x7fb7f2405c10, lru = 2, written
+pt[3].v = 0x7fb7f25041e0, lru = 3, written
+pt[4].v = 0x7fb7f2405be0, lru = 4, written
+pt[5].v = 0x7fb7f2504330, lru = 5, written
+pt[6].v = 0x7fb7f25042a0, lru = 6
+pt[8].v = 0x7fb7f2405af0, lru = 8, written
+pt[9].v = 0x7fb7f2405ac0, lru = 9
+pt[10].v = 0x7fb7f2604090, lru = 10
+pt[11].v = 0x7fb7f2405bb0, lru = 11
+pt[12].v = 0x7fb7f2405c40, lru = 12, written
+pt[13].v = 0x7fb7f25043c0, lru = 13
+pt[14].v = 0x7fb7f25043f0, lru = 14, written
+pt[15].v = 0x7fb7f2504120, lru = 15, written
+pt[16].v = 0x7fb7f2405a90, lru = 16, written
+
+ * * * Done mallocing a new page Malloc User Page * * * 
+Dumping Page Directory:
+pd[0].v   = 0x7fb7f24059d0
+pd[0].lru = 0
+
+Dumping Page Tables:
+Page Dir entry 0:
+pt[0].v = 0x7fb7f2405b80, lru = 0
+pt[1].v = 0x7fb7f2504360, lru = 1
+pt[2].v = 0x7fb7f2405c10, lru = 2, written
+pt[3].v = 0x7fb7f25041e0, lru = 3, written
+pt[4].v = 0x7fb7f2405be0, lru = 4, written
+pt[5].v = 0x7fb7f2504330, lru = 5, written
+pt[6].v = 0x7fb7f25042a0, lru = 6
+pt[8].v = 0x7fb7f2405af0, lru = 8, written
+pt[9].v = 0x7fb7f2405ac0, lru = 9
+pt[10].v = 0x7fb7f2604090, lru = 10
+pt[11].v = 0x7fb7f2405bb0, lru = 11
+pt[12].v = 0x7fb7f2504420, lru = 12
+pt[13].v = 0x7fb7f25043c0, lru = 13
+pt[14].v = 0x7fb7f25043f0, lru = 14, written
+pt[15].v = 0x7fb7f2504120, lru = 15, written
+pt[16].v = 0x7fb7f2405a90, lru = 16, written
+
+ * * * Done mallocing a new page Malloc User Page * * * 
+Dumping Page Directory:
+pd[0].v   = 0x7fb7f24059d0
+pd[0].lru = 0
+
+Dumping Page Tables:
+Page Dir entry 0:
+pt[0].v = 0x7fb7f2405b80, lru = 0
+pt[1].v = 0x7fb7f2504360, lru = 1
+pt[2].v = 0x7fb7f2405c10, lru = 2, written
+pt[3].v = 0x7fb7f25041e0, lru = 3, written
+pt[4].v = 0x7fb7f2405be0, lru = 4, written
+pt[5].v = 0x7fb7f2504330, lru = 5, written
+pt[6].v = 0x7fb7f25042a0, lru = 6
+pt[7].v = 0x7fb7f2504450, lru = 7, written
+pt[8].v = 0x7fb7f2504180, lru = 8, written
+pt[9].v = 0x7fb7f2405ac0, lru = 9
+pt[10].v = 0x7fb7f2604090, lru = 10
+pt[11].v = 0x7fb7f2405bb0, lru = 11
+pt[12].v = 0x7fb7f2504420, lru = 12
+pt[13].v = 0x7fb7f25043c0, lru = 13
+pt[14].v = 0x7fb7f25043f0, lru = 14, written
+pt[15].v = 0x7fb7f2504120, lru = 15, written
+pt[16].v = 0x7fb7f2405a90, lru = 16, written
+
+ * * * Done mallocing a new page Malloc User Page * * * 
+Dumping Page Directory:
+pd[0].v   = 0x7fb7f24059d0
+pd[0].lru = 0
+
+Dumping Page Tables:
+Page Dir entry 0:
+pt[0].v = 0x7fb7f2405b80, lru = 0
+pt[1].v = 0x7fb7f2504360, lru = 1
+pt[2].v = 0x7fb7f2405c10, lru = 2, written
+pt[3].v = 0x7fb7f2504480, lru = 3
+pt[4].v = 0x7fb7f2405be0, lru = 4, written
+pt[5].v = 0x7fb7f2504330, lru = 5, written
+pt[6].v = 0x7fb7f25042a0, lru = 6
+pt[7].v = 0x7fb7f2504450, lru = 7, written
+pt[8].v = 0x7fb7f2504180, lru = 8, written
+pt[9].v = 0x7fb7f2405ac0, lru = 9
+pt[10].v = 0x7fb7f2604090, lru = 10
+pt[11].v = 0x7fb7f2405bb0, lru = 11
+pt[12].v = 0x7fb7f2504420, lru = 12
+pt[13].v = 0x7fb7f25043c0, lru = 13, written
+pt[14].v = 0x7fb7f25043f0, lru = 14, written
+pt[15].v = 0x7fb7f2504120, lru = 15, written
+pt[16].v = 0x7fb7f2405a90, lru = 16, written
+
+ * * * Done mallocing a new page Malloc User Page * * * 
+Dumping Page Directory:
+pd[0].v   = 0x7fb7f24059d0
+pd[0].lru = 0
+
+Dumping Page Tables:
+Page Dir entry 0:
+pt[0].v = 0x7fb7f2405b80, lru = 0
+pt[1].v = 0x7fb7f2504360, lru = 1
+pt[2].v = 0x7fb7f2405c10, lru = 2, written
+pt[3].v = 0x7fb7f2504480, lru = 3
+pt[4].v = 0x7fb7f2405be0, lru = 4, written
+pt[5].v = 0x7fb7f2504330, lru = 5, written
+pt[6].v = 0x7fb7f25042a0, lru = 6
+pt[7].v = 0x7fb7f25044b0, lru = 7, written
+pt[8].v = 0x7fb7f2504180, lru = 8, written
+pt[9].v = 0x7fb7f2405ac0, lru = 9
+pt[10].v = 0x7fb7f2604090, lru = 10
+pt[11].v = 0x7fb7f2405bb0, lru = 11
+pt[12].v = 0x7fb7f2504420, lru = 12
+pt[13].v = 0x7fb7f25043c0, lru = 13, written
+pt[14].v = 0x7fb7f25043f0, lru = 14, written
+pt[15].v = 0x7fb7f2504120, lru = 15, written
+pt[16].v = 0x7fb7f2405a90, lru = 16, written
+
+ * * * Done mallocing a new page Malloc User Page * * * 
+Dumping Page Directory:
+pd[0].v   = 0x7fb7f24059d0
+pd[0].lru = 0
+
+Dumping Page Tables:
+Page Dir entry 0:
+pt[0].v = 0x7fb7f2405b80, lru = 0
+pt[1].v = 0x7fb7f2504360, lru = 1
+pt[2].v = 0x7fb7f2405c10, lru = 2, written
+pt[3].v = 0x7fb7f2504450, lru = 3
+pt[4].v = 0x7fb7f2405be0, lru = 4, written
+pt[5].v = 0x7fb7f2504330, lru = 5, written
+pt[6].v = 0x7fb7f25042a0, lru = 6
+pt[7].v = 0x7fb7f25044b0, lru = 7, written
+pt[8].v = 0x7fb7f2504180, lru = 8, written
+pt[9].v = 0x7fb7f2405ac0, lru = 9
+pt[10].v = 0x7fb7f25044e0, lru = 10
+pt[11].v = 0x7fb7f2405bb0, lru = 11
+pt[12].v = 0x7fb7f2504420, lru = 12
+pt[13].v = 0x7fb7f25043c0, lru = 13, written
+pt[14].v = 0x7fb7f25043f0, lru = 14, written
+pt[15].v = 0x7fb7f2504120, lru = 15, written
+pt[16].v = 0x7fb7f2405a90, lru = 16, written
+
+ * * * Done mallocing a new page Malloc User Page * * * 
+Dumping Page Directory:
+pd[0].v   = 0x7fb7f24059d0
+pd[0].lru = 0
+
+Dumping Page Tables:
+Page Dir entry 0:
+pt[0].v = 0x7fb7f2405b80, lru = 0
+pt[1].v = 0x7fb7f2504360, lru = 1
+pt[2].v = 0x7fb7f2405c10, lru = 2, written
+pt[3].v = 0x7fb7f2504510, lru = 3
+pt[4].v = 0x7fb7f2405be0, lru = 4, written
+pt[5].v = 0x7fb7f2504330, lru = 5, written
+pt[6].v = 0x7fb7f25042a0, lru = 6
+pt[7].v = 0x7fb7f25044b0, lru = 7, written
+pt[8].v = 0x7fb7f2504180, lru = 8, written
+pt[9].v = 0x7fb7f2405ac0, lru = 9
+pt[10].v = 0x7fb7f25044e0, lru = 10
+pt[11].v = 0x7fb7f2405bb0, lru = 11
+pt[12].v = 0x7fb7f2504420, lru = 12
+pt[13].v = 0x7fb7f25043c0, lru = 13, written
+pt[14].v = 0x7fb7f25043f0, lru = 14, written
+pt[15].v = 0x7fb7f2504120, lru = 15, written
+pt[16].v = 0x7fb7f2405a90, lru = 16, written
+
+ * * * Done mallocing a new page Malloc User Page * * * 
+Dumping Page Directory:
+pd[0].v   = 0x7fb7f24059d0
+pd[0].lru = 0
+
+Dumping Page Tables:
+Page Dir entry 0:
+pt[0].v = 0x7fb7f2405b80, lru = 0
+pt[1].v = 0x7fb7f2504360, lru = 1
+pt[2].v = 0x7fb7f2405c10, lru = 2, written
+pt[3].v = 0x7fb7f2504510, lru = 3
+pt[4].v = 0x7fb7f2405be0, lru = 4, written
+pt[5].v = 0x7fb7f2504540, lru = 5, written
+pt[6].v = 0x7fb7f25042a0, lru = 6
+pt[7].v = 0x7fb7f25044b0, lru = 7, written
+pt[8].v = 0x7fb7f2504180, lru = 8, written
+pt[9].v = 0x7fb7f2405ac0, lru = 9
+pt[10].v = 0x7fb7f25044e0, lru = 10
+pt[11].v = 0x7fb7f2405bb0, lru = 11
+pt[12].v = 0x7fb7f2504420, lru = 12
+pt[13].v = 0x7fb7f25043c0, lru = 13, written
+pt[14].v = 0x7fb7f25043f0, lru = 14, written
+pt[15].v = 0x7fb7f2504120, lru = 15, written
+pt[16].v = 0x7fb7f2405a90, lru = 16, written
+
+ * * * Done mallocing a new page Malloc User Page * * * 
+Dumping Page Directory:
+pd[0].v   = 0x7fb7f24059d0
+pd[0].lru = 0
+
+Dumping Page Tables:
+Page Dir entry 0:
+pt[0].v = 0x7fb7f2405b80, lru = 0
+pt[1].v = 0x7fb7f2504360, lru = 1
+pt[2].v = 0x7fb7f2405a10, lru = 2, written
+pt[3].v = 0x7fb7f2504510, lru = 3
+pt[4].v = 0x7fb7f2405be0, lru = 4, written
+pt[5].v = 0x7fb7f2504540, lru = 5, written
+pt[6].v = 0x7fb7f25042a0, lru = 6
+pt[7].v = 0x7fb7f25044b0, lru = 7, written
+pt[8].v = 0x7fb7f2504570, lru = 8, written
+pt[9].v = 0x7fb7f2405ac0, lru = 9
+pt[10].v = 0x7fb7f25044e0, lru = 10
+pt[11].v = 0x7fb7f2405bb0, lru = 11
+pt[12].v = 0x7fb7f2504420, lru = 12
+pt[13].v = 0x7fb7f25043c0, lru = 13, written
+pt[14].v = 0x7fb7f25043f0, lru = 14, written
+pt[15].v = 0x7fb7f2504120, lru = 15, written
+pt[16].v = 0x7fb7f2405a90, lru = 16, written
+
+ * * * Done mallocing a new page Malloc User Page * * * 
+Dumping Page Directory:
+pd[0].v   = 0x7fb7f24059d0
+pd[0].lru = 0
+
+Dumping Page Tables:
+Page Dir entry 0:
+pt[0].v = 0x7fb7f2405b80, lru = 0
+pt[1].v = 0x7fb7f25045a0, lru = 1, written
+pt[2].v = 0x7fb7f2405a10, lru = 2, written
+pt[3].v = 0x7fb7f2504510, lru = 3
+pt[4].v = 0x7fb7f2405be0, lru = 4, written
+pt[5].v = 0x7fb7f2504540, lru = 5, written
+pt[6].v = 0x7fb7f25042a0, lru = 6
+pt[7].v = 0x7fb7f25044b0, lru = 7, written
+pt[8].v = 0x7fb7f2504570, lru = 8, written
+pt[9].v = 0x7fb7f2405ac0, lru = 9
+pt[10].v = 0x7fb7f25044e0, lru = 10
+pt[11].v = 0x7fb7f2405bb0, lru = 11
+pt[12].v = 0x7fb7f2504420, lru = 12
+pt[13].v = 0x7fb7f25043c0, lru = 13, written
+pt[14].v = 0x7fb7f25043f0, lru = 14, written
+pt[15].v = 0x7fb7f2504120, lru = 15, written
+pt[16].v = 0x7fb7f2405a90, lru = 16, written
+
+ * * * Done mallocing a new page Malloc User Page * * * 
+Dumping Page Directory:
+pd[0].v   = 0x7fb7f24059d0
+pd[0].lru = 0
+
+Dumping Page Tables:
+Page Dir entry 0:
+pt[0].v = 0x7fb7f2405b80, lru = 0
+pt[1].v = 0x7fb7f25045a0, lru = 1, written
+pt[2].v = 0x7fb7f2405a10, lru = 2, written
+pt[3].v = 0x7fb7f2504510, lru = 3
+pt[4].v = 0x7fb7f2405be0, lru = 4, written
+pt[5].v = 0x7fb7f2504540, lru = 5, written
+pt[6].v = 0x7fb7f25042a0, lru = 6
+pt[7].v = 0x7fb7f25044b0, lru = 7, written
+pt[8].v = 0x7fb7f2504570, lru = 8, written
+pt[9].v = 0x7fb7f2405ac0, lru = 9
+pt[10].v = 0x7fb7f25044e0, lru = 10
+pt[11].v = 0x7fb7f2405bb0, lru = 11
+pt[12].v = 0x7fb7f27040a0, lru = 12, written
+pt[13].v = 0x7fb7f25043c0, lru = 13, written
+pt[14].v = 0x7fb7f25043f0, lru = 14, written
+pt[15].v = 0x7fb7f2504120, lru = 15, written
+pt[16].v = 0x7fb7f2405a90, lru = 16, written
+
+ * * * Done mallocing a new page Malloc User Page * * * 
+Dumping Page Directory:
+pd[0].v   = 0x7fb7f24059d0
+pd[0].lru = 0
+
+Dumping Page Tables:
+Page Dir entry 0:
+pt[0].v = 0x7fb7f2405b80, lru = 0
+pt[1].v = 0x7fb7f25045a0, lru = 1, written
+pt[2].v = 0x7fb7f2405a10, lru = 2, written
+pt[3].v = 0x7fb7f2504510, lru = 3
+pt[4].v = 0x7fb7f2405be0, lru = 4, written
+pt[5].v = 0x7fb7f27040d0, lru = 5, written
+pt[6].v = 0x7fb7f25042a0, lru = 6
+pt[7].v = 0x7fb7f25044b0, lru = 7, written
+pt[8].v = 0x7fb7f2504570, lru = 8, written
+pt[9].v = 0x7fb7f2405ac0, lru = 9
+pt[10].v = 0x7fb7f25044e0, lru = 10
+pt[11].v = 0x7fb7f2405bb0, lru = 11
+pt[12].v = 0x7fb7f27040a0, lru = 12, written
+pt[13].v = 0x7fb7f25043c0, lru = 13, written
+pt[14].v = 0x7fb7f25043f0, lru = 14, written
+pt[15].v = 0x7fb7f2504120, lru = 15, written
+pt[16].v = 0x7fb7f2405a90, lru = 16, written
+
+ * * * Done mallocing a new page Malloc User Page * * * 
+Dumping Page Directory:
+pd[0].v   = 0x7fb7f24059d0
+pd[0].lru = 0
+
+Dumping Page Tables:
+Page Dir entry 0:
+pt[0].v = 0x7fb7f2405b80, lru = 0
+pt[1].v = 0x7fb7f25045a0, lru = 1, written
+pt[2].v = 0x7fb7f2405a10, lru = 2, written
+pt[3].v = 0x7fb7f2504510, lru = 3
+pt[4].v = 0x7fb7f2405be0, lru = 4, written
+pt[5].v = 0x7fb7f27040d0, lru = 5, written
+pt[6].v = 0x7fb7f25042a0, lru = 6
+pt[7].v = 0x7fb7f2704100, lru = 7, written
+pt[8].v = 0x7fb7f2504570, lru = 8, written
+pt[9].v = 0x7fb7f2405ac0, lru = 9
+pt[10].v = 0x7fb7f25044e0, lru = 10
+pt[11].v = 0x7fb7f2405bb0, lru = 11
+pt[12].v = 0x7fb7f27040a0, lru = 12, written
+pt[13].v = 0x7fb7f25043c0, lru = 13, written
+pt[14].v = 0x7fb7f25043f0, lru = 14, written
+pt[15].v = 0x7fb7f2504120, lru = 15, written
+pt[16].v = 0x7fb7f2405a90, lru = 16, written
+
+ * * * Done mallocing a new page Malloc User Page * * * 
+Dumping Page Directory:
+pd[0].v   = 0x7fb7f24059d0
+pd[0].lru = 0
+
+Dumping Page Tables:
+Page Dir entry 0:
+pt[0].v = 0x7fb7f2405b80, lru = 0
+pt[1].v = 0x7fb7f25045a0, lru = 1, written
+pt[2].v = 0x7fb7f2405a10, lru = 2, written
+pt[3].v = 0x7fb7f2504510, lru = 3
+pt[4].v = 0x7fb7f2405be0, lru = 4, written
+pt[5].v = 0x7fb7f27040d0, lru = 5, written
+pt[6].v = 0x7fb7f25042a0, lru = 6
+pt[7].v = 0x7fb7f2704100, lru = 7, written
+pt[8].v = 0x7fb7f2504570, lru = 8, written
+pt[9].v = 0x7fb7f2405ac0, lru = 9
+pt[10].v = 0x7fb7f2704130, lru = 10
+pt[11].v = 0x7fb7f2405bb0, lru = 11
+pt[12].v = 0x7fb7f27040a0, lru = 12, written
+pt[13].v = 0x7fb7f25043c0, lru = 13, written
+pt[14].v = 0x7fb7f25043f0, lru = 14, written
+pt[15].v = 0x7fb7f2504120, lru = 15, written
+pt[16].v = 0x7fb7f2405a90, lru = 16, written
+
+ * * * Done mallocing a new page Malloc User Page * * * 
+Dumping Page Directory:
+pd[0].v   = 0x7fb7f24059d0
+pd[0].lru = 0
+
+Dumping Page Tables:
+Page Dir entry 0:
+pt[0].v = 0x7fb7f2704160, lru = 0
+pt[1].v = 0x7fb7f25045a0, lru = 1, written
+pt[2].v = 0x7fb7f2405a10, lru = 2, written
+pt[3].v = 0x7fb7f2504510, lru = 3
+pt[4].v = 0x7fb7f2405be0, lru = 4, written
+pt[5].v = 0x7fb7f27040d0, lru = 5, written
+pt[6].v = 0x7fb7f25042a0, lru = 6
+pt[7].v = 0x7fb7f2704100, lru = 7, written
+pt[8].v = 0x7fb7f2504570, lru = 8, written
+pt[9].v = 0x7fb7f2405ac0, lru = 9
+pt[10].v = 0x7fb7f2704130, lru = 10
+pt[11].v = 0x7fb7f2405bb0, lru = 11
+pt[12].v = 0x7fb7f27040a0, lru = 12, written
+pt[13].v = 0x7fb7f25043c0, lru = 13, written
+pt[14].v = 0x7fb7f25043f0, lru = 14, written
+pt[15].v = 0x7fb7f2504120, lru = 15, written
+pt[16].v = 0x7fb7f2405a90, lru = 16, written
+
+ * * * Done mallocing a new page Malloc User Page * * * 
+Dumping Page Directory:
+pd[0].v   = 0x7fb7f24059d0
+pd[0].lru = 0
+
+Dumping Page Tables:
+Page Dir entry 0:
+pt[0].v = 0x7fb7f2704160, lru = 0
+pt[1].v = 0x7fb7f25045a0, lru = 1, written
+pt[2].v = 0x7fb7f2405a10, lru = 2, written
+pt[3].v = 0x7fb7f2504510, lru = 3
+pt[4].v = 0x7fb7f2405be0, lru = 4, written
+pt[5].v = 0x7fb7f27040d0, lru = 5, written
+pt[6].v = 0x7fb7f25042a0, lru = 6
+pt[7].v = 0x7fb7f2704100, lru = 7, written
+pt[8].v = 0x7fb7f2504570, lru = 8, written
+pt[9].v = 0x7fb7f2405ac0, lru = 9
+pt[10].v = 0x7fb7f2704130, lru = 10
+pt[11].v = 0x7fb7f2405bb0, lru = 11
+pt[12].v = 0x7fb7f27040a0, lru = 12, written
+pt[13].v = 0x7fb7f25043c0, lru = 13, written
+pt[14].v = 0x7fb7f2704190, lru = 14, written
+pt[15].v = 0x7fb7f2504120, lru = 15, written
+pt[16].v = 0x7fb7f2405a90, lru = 16, written
+
+ * * * Done mallocing a new page Malloc User Page * * * 
+Dumping Page Directory:
+pd[0].v   = 0x7fb7f24059d0
+pd[0].lru = 0
+
+Dumping Page Tables:
+Page Dir entry 0:
+pt[0].v = 0x7fb7f2704160, lru = 0
+pt[1].v = 0x7fb7f27041c0, lru = 1, written
+pt[2].v = 0x7fb7f2405a10, lru = 2, written
+pt[3].v = 0x7fb7f2504510, lru = 3
+pt[4].v = 0x7fb7f2405be0, lru = 4, written
+pt[5].v = 0x7fb7f27040d0, lru = 5, written
+pt[6].v = 0x7fb7f25042a0, lru = 6
+pt[7].v = 0x7fb7f2704100, lru = 7, written
+pt[8].v = 0x7fb7f2504570, lru = 8, written
+pt[9].v = 0x7fb7f2405ac0, lru = 9
+pt[10].v = 0x7fb7f2704130, lru = 10
+pt[11].v = 0x7fb7f2405bb0, lru = 11
+pt[12].v = 0x7fb7f27040a0, lru = 12, written
+pt[13].v = 0x7fb7f25043c0, lru = 13, written
+pt[14].v = 0x7fb7f2704190, lru = 14, written
+pt[15].v = 0x7fb7f2504120, lru = 15, written
+pt[16].v = 0x7fb7f2405a90, lru = 16, written
+
+ * * * Done mallocing a new page Malloc User Page * * * 
+Dumping Page Directory:
+pd[0].v   = 0x7fb7f24059d0
+pd[0].lru = 0
+
+Dumping Page Tables:
+Page Dir entry 0:
+pt[0].v = 0x7fb7f2704160, lru = 0
+pt[1].v = 0x7fb7f27041c0, lru = 1, written
+pt[2].v = 0x7fb7f2405a10, lru = 2, written
+pt[3].v = 0x7fb7f2504510, lru = 3
+pt[4].v = 0x7fb7f2405be0, lru = 4, written
+pt[5].v = 0x7fb7f27040d0, lru = 5, written
+pt[6].v = 0x7fb7f25042a0, lru = 6
+pt[7].v = 0x7fb7f2704100, lru = 7, written
+pt[8].v = 0x7fb7f2504570, lru = 8, written
+pt[9].v = 0x7fb7f2405ac0, lru = 9
+pt[10].v = 0x7fb7f27041f0, lru = 10, written
+pt[11].v = 0x7fb7f2405bb0, lru = 11
+pt[12].v = 0x7fb7f27040a0, lru = 12, written
+pt[13].v = 0x7fb7f25043c0, lru = 13, written
+pt[14].v = 0x7fb7f2704190, lru = 14, written
+pt[15].v = 0x7fb7f2504120, lru = 15, written
+pt[16].v = 0x7fb7f2405a90, lru = 16, written
+
+ * * * Done mallocing a new page Malloc User Page * * * 
+Dumping Page Directory:
+pd[0].v   = 0x7fb7f24059d0
+pd[0].lru = 0
+
+Dumping Page Tables:
+Page Dir entry 0:
+pt[0].v = 0x7fb7f2704160, lru = 0
+pt[1].v = 0x7fb7f27041c0, lru = 1, written
+pt[2].v = 0x7fb7f2405a10, lru = 2, written
+pt[3].v = 0x7fb7f2504510, lru = 3
+pt[4].v = 0x7fb7f2405be0, lru = 4, written
+pt[5].v = 0x7fb7f27040d0, lru = 5, written
+pt[6].v = 0x7fb7f25042a0, lru = 6
+pt[7].v = 0x7fb7f2704100, lru = 7, written
+pt[8].v = 0x7fb7f2504570, lru = 8, written
+pt[9].v = 0x7fb7f2405ac0, lru = 9
+pt[10].v = 0x7fb7f27041f0, lru = 10, written
+pt[11].v = 0x7fb7f2405bb0, lru = 11
+pt[12].v = 0x7fb7f2704220, lru = 12
+pt[13].v = 0x7fb7f25043c0, lru = 13, written
+pt[14].v = 0x7fb7f2704190, lru = 14, written
+pt[15].v = 0x7fb7f2504120, lru = 15, written
+pt[16].v = 0x7fb7f2405a90, lru = 16, written
+
+ * * * Done mallocing a new page Malloc User Page * * * 
+Dumping Page Directory:
+pd[0].v   = 0x7fb7f24059d0
+pd[0].lru = 0
+
+Dumping Page Tables:
+Page Dir entry 0:
+pt[0].v = 0x7fb7f2704160, lru = 0
+pt[1].v = 0x7fb7f27041c0, lru = 1, written
+pt[2].v = 0x7fb7f2405a10, lru = 2, written
+pt[3].v = 0x7fb7f2504240, lru = 3, written
+pt[4].v = 0x7fb7f2405be0, lru = 4, written
+pt[5].v = 0x7fb7f27040d0, lru = 5, written
+pt[6].v = 0x7fb7f25042a0, lru = 6
+pt[7].v = 0x7fb7f2704100, lru = 7, written
+pt[8].v = 0x7fb7f27040a0, lru = 8, written
+pt[9].v = 0x7fb7f2405ac0, lru = 9
+pt[10].v = 0x7fb7f27041f0, lru = 10, written
+pt[11].v = 0x7fb7f2405bb0, lru = 11
+pt[12].v = 0x7fb7f2704220, lru = 12
+pt[13].v = 0x7fb7f2704250, lru = 13, written
+pt[14].v = 0x7fb7f2704190, lru = 14, written
+pt[15].v = 0x7fb7f2504120, lru = 15, written
+pt[16].v = 0x7fb7f2405a90, lru = 16, written
+
+ * * * Done mallocing a new page Malloc User Page * * * 
+Dumping Page Directory:
+pd[0].v   = 0x7fb7f24059d0
+pd[0].lru = 0
+
+Dumping Page Tables:
+Page Dir entry 0:
+pt[0].v = 0x7fb7f2704160, lru = 0
+pt[1].v = 0x7fb7f27041c0, lru = 1, written
+pt[2].v = 0x7fb7f2405a10, lru = 2, written
+pt[3].v = 0x7fb7f2504240, lru = 3, written
+pt[4].v = 0x7fb7f2405be0, lru = 4, written
+pt[5].v = 0x7fb7f27040d0, lru = 5, written
+pt[6].v = 0x7fb7f25043c0, lru = 6
+pt[7].v = 0x7fb7f2704100, lru = 7, written
+pt[8].v = 0x7fb7f27040a0, lru = 8, written
+pt[9].v = 0x7fb7f26040d0, lru = 9
+pt[10].v = 0x7fb7f27041f0, lru = 10, written
+pt[11].v = 0x7fb7f2405bb0, lru = 11
+pt[12].v = 0x7fb7f2704220, lru = 12
+pt[13].v = 0x7fb7f2704250, lru = 13, written
+pt[14].v = 0x7fb7f2704190, lru = 14, written
+pt[15].v = 0x7fb7f2504120, lru = 15, written
+pt[16].v = 0x7fb7f2405a90, lru = 16, written
+
+ * * * Done mallocing a new page Malloc User Page * * * 
+Dumping Page Directory:
+pd[0].v   = 0x7fb7f24059d0
+pd[0].lru = 0
+
+Dumping Page Tables:
+Page Dir entry 0:
+pt[0].v = 0x7fb7f2704160, lru = 0
+pt[1].v = 0x7fb7f27041c0, lru = 1, written
+pt[2].v = 0x7fb7f2405a10, lru = 2, written
+pt[3].v = 0x7fb7f2504240, lru = 3, written
+pt[4].v = 0x7fb7f2405be0, lru = 4, written
+pt[5].v = 0x7fb7f27040d0, lru = 5, written
+pt[6].v = 0x7fb7f2604100, lru = 6, written
+pt[7].v = 0x7fb7f2704100, lru = 7, written
+pt[8].v = 0x7fb7f27040a0, lru = 8, written
+pt[9].v = 0x7fb7f26040d0, lru = 9
+pt[10].v = 0x7fb7f27041f0, lru = 10, written
+pt[11].v = 0x7fb7f2405bb0, lru = 11
+pt[12].v = 0x7fb7f2704220, lru = 12
+pt[13].v = 0x7fb7f2704250, lru = 13, written
+pt[14].v = 0x7fb7f2704190, lru = 14, written
+pt[15].v = 0x7fb7f2504120, lru = 15, written
+pt[16].v = 0x7fb7f2405a90, lru = 16, written
+
+ * * * Done mallocing a new page Malloc User Page * * * 
+Dumping Page Directory:
+pd[0].v   = 0x7fb7f24059d0
+pd[0].lru = 0
+
+Dumping Page Tables:
+Page Dir entry 0:
+pt[0].v = 0x7fb7f2704160, lru = 0
+pt[1].v = 0x7fb7f27041c0, lru = 1, written
+pt[2].v = 0x7fb7f2405a10, lru = 2, written
+pt[3].v = 0x7fb7f2504240, lru = 3, written
+pt[4].v = 0x7fb7f2405be0, lru = 4, written
+pt[5].v = 0x7fb7f27040d0, lru = 5, written
+pt[6].v = 0x7fb7f5004090, lru = 6, written
+pt[7].v = 0x7fb7f2704100, lru = 7, written
+pt[8].v = 0x7fb7f27040a0, lru = 8, written
+pt[9].v = 0x7fb7f26040d0, lru = 9
+pt[10].v = 0x7fb7f27041f0, lru = 10, written
+pt[11].v = 0x7fb7f2405bb0, lru = 11
+pt[12].v = 0x7fb7f2704220, lru = 12
+pt[13].v = 0x7fb7f2704250, lru = 13, written
+pt[14].v = 0x7fb7f2704190, lru = 14, written
+pt[15].v = 0x7fb7f2504120, lru = 15, written
+pt[16].v = 0x7fb7f2405a90, lru = 16, written
+
+ * * * Done mallocing a new page Malloc User Page * * * 
+Dumping Page Directory:
+pd[0].v   = 0x7fb7f24059d0
+pd[0].lru = 0
+
+Dumping Page Tables:
+Page Dir entry 0:
+pt[0].v = 0x7fb7f2704160, lru = 0
+pt[1].v = 0x7fb7f27041c0, lru = 1, written
+pt[2].v = 0x7fb7f2405a10, lru = 2, written
+pt[3].v = 0x7fb7f2504240, lru = 3, written
+pt[4].v = 0x7fb7f2405be0, lru = 4, written
+pt[5].v = 0x7fb7f27040d0, lru = 5, written
+pt[6].v = 0x7fb7f5004090, lru = 6, written
+pt[7].v = 0x7fb7f2704100, lru = 7, written
+pt[8].v = 0x7fb7f27040a0, lru = 8, written
+pt[9].v = 0x7fb7f26040d0, lru = 9
+pt[10].v = 0x7fb7f27041f0, lru = 10, written
+pt[11].v = 0x7fb7f2405bb0, lru = 11
+pt[12].v = 0x7fb7f50040d0, lru = 12, written
+pt[13].v = 0x7fb7f2704250, lru = 13, written
+pt[14].v = 0x7fb7f2704190, lru = 14, written
+pt[15].v = 0x7fb7f2504120, lru = 15, written
+pt[16].v = 0x7fb7f2405a90, lru = 16, written
+
+ * * * Done mallocing a new page Malloc User Page * * * 
+Dumping Page Directory:
+pd[0].v   = 0x7fb7f24059d0
+pd[0].lru = 0
+
+Dumping Page Tables:
+Page Dir entry 0:
+pt[0].v = 0x7fb7f2704160, lru = 0
+pt[1].v = 0x7fb7f27041c0, lru = 1, written
+pt[2].v = 0x7fb7f2405a10, lru = 2, written
+pt[3].v = 0x7fb7f2504240, lru = 3, written
+pt[4].v = 0x7fb7f2405be0, lru = 4, written
+pt[5].v = 0x7fb7f27040d0, lru = 5, written
+pt[6].v = 0x7fb7f5004090, lru = 6, written
+pt[7].v = 0x7fb7f2704100, lru = 7, written
+pt[8].v = 0x7fb7f27040a0, lru = 8, written
+pt[9].v = 0x7fb7f26040d0, lru = 9
+pt[10].v = 0x7fb7f27041f0, lru = 10, written
+pt[11].v = 0x7fb7f5004100, lru = 11, written
+pt[12].v = 0x7fb7f50040d0, lru = 12, written
+pt[13].v = 0x7fb7f2704250, lru = 13, written
+pt[14].v = 0x7fb7f2704190, lru = 14, written
+pt[15].v = 0x7fb7f2504120, lru = 15, written
+pt[16].v = 0x7fb7f2405a90, lru = 16, written
+
+ * * * Done mallocing a new page Malloc User Page * * * 
+Dumping Page Directory:
+pd[0].v   = 0x7fb7f24059d0
+pd[0].lru = 0
+
+Dumping Page Tables:
+Page Dir entry 0:
+pt[0].v = 0x7fb7f2704160, lru = 0
+pt[1].v = 0x7fb7f27041c0, lru = 1, written
+pt[2].v = 0x7fb7f2405a10, lru = 2, written
+pt[3].v = 0x7fb7f2504240, lru = 3, written
+pt[4].v = 0x7fb7f2405be0, lru = 4, written
+pt[5].v = 0x7fb7f27040d0, lru = 5, written
+pt[6].v = 0x7fb7f5004090, lru = 6, written
+pt[7].v = 0x7fb7f2704100, lru = 7, written
+pt[8].v = 0x7fb7f27040a0, lru = 8, written
+pt[9].v = 0x7fb7f26040d0, lru = 9
+pt[10].v = 0x7fb7f27041f0, lru = 10, written
+pt[11].v = 0x7fb7f5004100, lru = 11, written
+pt[12].v = 0x7fb7f5004130, lru = 12, written
+pt[13].v = 0x7fb7f2704250, lru = 13, written
+pt[14].v = 0x7fb7f2704190, lru = 14, written
+pt[15].v = 0x7fb7f2504120, lru = 15, written
+pt[16].v = 0x7fb7f2405a90, lru = 16, written
+
+ * * * Done mallocing a new page Malloc User Page * * * 
+Dumping Page Directory:
+pd[0].v   = 0x7fb7f24059d0
+pd[0].lru = 0
+
+Dumping Page Tables:
+Page Dir entry 0:
+pt[0].v = 0x7fb7f2704160, lru = 0
+pt[1].v = 0x7fb7f27041c0, lru = 1, written
+pt[2].v = 0x7fb7f2405a10, lru = 2, written
+pt[3].v = 0x7fb7f2504570, lru = 3, written
+pt[4].v = 0x7fb7f2405be0, lru = 4, written
+pt[5].v = 0x7fb7f27040d0, lru = 5, written
+pt[6].v = 0x7fb7f50040d0, lru = 6, written
+pt[7].v = 0x7fb7f2704100, lru = 7, written
+pt[8].v = 0x7fb7f27040a0, lru = 8, written
+pt[9].v = 0x7fb7f26040d0, lru = 9
+pt[10].v = 0x7fb7f27041f0, lru = 10, written
+pt[11].v = 0x7fb7f2504240, lru = 11, written
+pt[12].v = 0x7fb7f5004160, lru = 12, written
+pt[13].v = 0x7fb7f2704250, lru = 13, written
+pt[14].v = 0x7fb7f2704190, lru = 14, written
+pt[15].v = 0x7fb7f2504120, lru = 15, written
+pt[16].v = 0x7fb7f2405a90, lru = 16, written
+
+ * * * Done mallocing a new page Malloc User Page * * * 
+Dumping Page Directory:
+pd[0].v   = 0x7fb7f24059d0
+pd[0].lru = 0
+
+Dumping Page Tables:
+Page Dir entry 0:
+pt[0].v = 0x7fb7f2704160, lru = 0
+pt[1].v = 0x7fb7f27041c0, lru = 1, written
+pt[2].v = 0x7fb7f2405a10, lru = 2, written
+pt[3].v = 0x7fb7f2504570, lru = 3, written
+pt[4].v = 0x7fb7f2405be0, lru = 4, written
+pt[5].v = 0x7fb7f27040d0, lru = 5, written
+pt[6].v = 0x7fb7f50040d0, lru = 6, written
+pt[7].v = 0x7fb7f5004190, lru = 7, written
+pt[8].v = 0x7fb7f27040a0, lru = 8, written
+pt[9].v = 0x7fb7f26040d0, lru = 9
+pt[10].v = 0x7fb7f27041f0, lru = 10, written
+pt[11].v = 0x7fb7f2504240, lru = 11, written
+pt[12].v = 0x7fb7f5004160, lru = 12, written
+pt[13].v = 0x7fb7f2704250, lru = 13, written
+pt[14].v = 0x7fb7f2704190, lru = 14, written
+pt[15].v = 0x7fb7f2504120, lru = 15, written
+pt[16].v = 0x7fb7f2405a90, lru = 16, written
+
+ * * * Done mallocing a new page Malloc User Page * * * 
+Dumping Page Directory:
+pd[0].v   = 0x7fb7f24059d0
+pd[0].lru = 0
+
+Dumping Page Tables:
+Page Dir entry 0:
+pt[0].v = 0x7fb7f2704160, lru = 0, written
+pt[1].v = 0x7fb7f27041c0, lru = 1, written
+pt[2].v = 0x7fb7f2405a10, lru = 2, written
+pt[3].v = 0x7fb7f2504570, lru = 3, written
+pt[4].v = 0x7fb7f2405be0, lru = 4, written
+pt[5].v = 0x7fb7f27040d0, lru = 5, written
+pt[6].v = 0x7fb7f50040d0, lru = 6, written
+pt[7].v = 0x7fb7f5004190, lru = 7, written
+pt[8].v = 0x7fb7f50041c0, lru = 8
+pt[9].v = 0x7fb7f26040d0, lru = 9
+pt[10].v = 0x7fb7f27041f0, lru = 10, written
+pt[11].v = 0x7fb7f2504240, lru = 11, written
+pt[12].v = 0x7fb7f5004160, lru = 12, written
+pt[13].v = 0x7fb7f2704250, lru = 13, written
+pt[14].v = 0x7fb7f2704100, lru = 14, written
+pt[15].v = 0x7fb7f2504120, lru = 15, written
+pt[16].v = 0x7fb7f2405a90, lru = 16, written
+
+ * * * Done mallocing a new page Malloc User Page * * * 
+Dumping Page Directory:
+pd[0].v   = 0x7fb7f24059d0
+pd[0].lru = 0
+
+Dumping Page Tables:
+Page Dir entry 0:
+pt[0].v = 0x7fb7f2704160, lru = 0, written
+pt[1].v = 0x7fb7f27041c0, lru = 1, written
+pt[2].v = 0x7fb7f2405a10, lru = 2, written
+pt[3].v = 0x7fb7f2504570, lru = 3, written
+pt[4].v = 0x7fb7f2405be0, lru = 4, written
+pt[5].v = 0x7fb7f27040d0, lru = 5, written
+pt[6].v = 0x7fb7f50040d0, lru = 6, written
+pt[7].v = 0x7fb7f5004190, lru = 7, written
+pt[8].v = 0x7fb7f50041c0, lru = 8
+pt[9].v = 0x7fb7f26040d0, lru = 9
+pt[10].v = 0x7fb7f27041f0, lru = 10, written
+pt[11].v = 0x7fb7f2504240, lru = 11, written
+pt[12].v = 0x7fb7f5004160, lru = 12, written
+pt[13].v = 0x7fb7f2704250, lru = 13, written
+pt[14].v = 0x7fb7f2704100, lru = 14, written
+pt[15].v = 0x7fb7f2504120, lru = 15, written
+pt[16].v = 0x7fb7f50041f0, lru = 16
+
+ * * * Done mallocing a new page Malloc User Page * * * 
+Dumping Page Directory:
+pd[0].v   = 0x7fb7f24059d0
+pd[0].lru = 0
+
+Dumping Page Tables:
+Page Dir entry 0:
+pt[0].v = 0x7fb7f2704160, lru = 0, written
+pt[1].v = 0x7fb7f27041c0, lru = 1, written
+pt[2].v = 0x7fb7f2405a10, lru = 2, written
+pt[3].v = 0x7fb7f2504570, lru = 3, written
+pt[4].v = 0x7fb7f2405be0, lru = 4, written
+pt[5].v = 0x7fb7f27040d0, lru = 5, written
+pt[6].v = 0x7fb7f50040d0, lru = 6, written
+pt[7].v = 0x7fb7f5004190, lru = 7, written
+pt[8].v = 0x7fb7f50041c0, lru = 8
+pt[9].v = 0x7fb7f26040d0, lru = 9
+pt[10].v = 0x7fb7f27041f0, lru = 10, written
+pt[11].v = 0x7fb7f2504240, lru = 11, written
+pt[12].v = 0x7fb7f5004160, lru = 12, written
+pt[13].v = 0x7fb7f2704250, lru = 13, written
+pt[14].v = 0x7fb7f2704100, lru = 14, written
+pt[15].v = 0x7fb7f2504120, lru = 15, written
+pt[16].v = 0x7fb7f5004220, lru = 16, written
+
+ * * * Done mallocing a new page Malloc User Page * * * 
+Dumping Page Directory:
+pd[0].v   = 0x7fb7f24059d0
+pd[0].lru = 0
+
+Dumping Page Tables:
+Page Dir entry 0:
+pt[0].v = 0x7fb7f2704160, lru = 0, written
+pt[1].v = 0x7fb7f27041c0, lru = 1, written
+pt[2].v = 0x7fb7f5004250, lru = 2, written
+pt[3].v = 0x7fb7f2504570, lru = 3, written
+pt[4].v = 0x7fb7f2405be0, lru = 4, written
+pt[5].v = 0x7fb7f27040d0, lru = 5, written
+pt[6].v = 0x7fb7f50040d0, lru = 6, written
+pt[7].v = 0x7fb7f5004190, lru = 7, written
+pt[8].v = 0x7fb7f50041c0, lru = 8
+pt[9].v = 0x7fb7f26040d0, lru = 9
+pt[10].v = 0x7fb7f27041f0, lru = 10, written
+pt[11].v = 0x7fb7f2504240, lru = 11, written
+pt[12].v = 0x7fb7f5004160, lru = 12, written
+pt[13].v = 0x7fb7f2704250, lru = 13, written
+pt[14].v = 0x7fb7f2704100, lru = 14, written
+pt[15].v = 0x7fb7f2504120, lru = 15, written
+pt[16].v = 0x7fb7f5004220, lru = 16, written
+
+ * * * Done mallocing a new page Malloc User Page * * * 
+Dumping Page Directory:
+pd[0].v   = 0x7fb7f24059d0
+pd[0].lru = 0
+
+Dumping Page Tables:
+Page Dir entry 0:
+pt[0].v = 0x7fb7f2704160, lru = 0, written
+pt[1].v = 0x7fb7f27041c0, lru = 1, written
+pt[2].v = 0x7fb7f5004250, lru = 2, written
+pt[3].v = 0x7fb7f2504570, lru = 3, written
+pt[4].v = 0x7fb7f2405be0, lru = 4, written
+pt[5].v = 0x7fb7f27040d0, lru = 5, written
+pt[6].v = 0x7fb7f50040d0, lru = 6, written
+pt[7].v = 0x7fb7f5004190, lru = 7, written
+pt[8].v = 0x7fb7f50041c0, lru = 8
+pt[9].v = 0x7fb7f26040d0, lru = 9
+pt[10].v = 0x7fb7f27041f0, lru = 10, written
+pt[11].v = 0x7fb7f2504240, lru = 11, written
+pt[12].v = 0x7fb7f5004280, lru = 12, written
+pt[13].v = 0x7fb7f2704250, lru = 13, written
+pt[14].v = 0x7fb7f2704100, lru = 14, written
+pt[15].v = 0x7fb7f2504120, lru = 15, written
+pt[16].v = 0x7fb7f5004220, lru = 16, written
+
+ * * * Done mallocing a new page Malloc User Page * * * 
+Dumping Page Directory:
+pd[0].v   = 0x7fb7f24059d0
+pd[0].lru = 0
+
+Dumping Page Tables:
+Page Dir entry 0:
+pt[0].v = 0x7fb7f2704160, lru = 0, written
+pt[1].v = 0x7fb7f27041c0, lru = 1, written
+pt[2].v = 0x7fb7f50042b0, lru = 2
+pt[3].v = 0x7fb7f2504570, lru = 3, written
+pt[4].v = 0x7fb7f2405be0, lru = 4, written
+pt[5].v = 0x7fb7f27040d0, lru = 5, written
+pt[6].v = 0x7fb7f50040d0, lru = 6, written
+pt[7].v = 0x7fb7f5004190, lru = 7, written
+pt[8].v = 0x7fb7f5004160, lru = 8
+pt[9].v = 0x7fb7f26040d0, lru = 9
+pt[10].v = 0x7fb7f27041f0, lru = 10, written
+pt[11].v = 0x7fb7f2504240, lru = 11, written
+pt[12].v = 0x7fb7f5004280, lru = 12, written
+pt[13].v = 0x7fb7f2704250, lru = 13, written
+pt[14].v = 0x7fb7f2704100, lru = 14, written
+pt[15].v = 0x7fb7f2504120, lru = 15, written
+pt[16].v = 0x7fb7f5004220, lru = 16, written
+
+ * * * Done mallocing a new page Malloc User Page * * * 
+Dumping Page Directory:
+pd[0].v   = 0x7fb7f24059d0
+pd[0].lru = 0
+
+Dumping Page Tables:
+Page Dir entry 0:
+pt[0].v = 0x7fb7f2704160, lru = 0, written
+pt[1].v = 0x7fb7f27041c0, lru = 1, written
+pt[2].v = 0x7fb7f50042b0, lru = 2
+pt[3].v = 0x7fb7f2504570, lru = 3, written
+pt[4].v = 0x7fb7f2405be0, lru = 4, written
+pt[5].v = 0x7fb7f27040d0, lru = 5, written
+pt[6].v = 0x7fb7f50040d0, lru = 6, written
+pt[7].v = 0x7fb7f5004190, lru = 7, written
+pt[8].v = 0x7fb7f5004160, lru = 8
+pt[9].v = 0x7fb7f26040d0, lru = 9
+pt[10].v = 0x7fb7f27041f0, lru = 10, written
+pt[11].v = 0x7fb7f2504240, lru = 11, written
+pt[12].v = 0x7fb7f5004280, lru = 12, written
+pt[13].v = 0x7fb7f2704250, lru = 13, written
+pt[14].v = 0x7fb7f2704100, lru = 14, written
+pt[15].v = 0x7fb7f50042e0, lru = 15, written
+pt[16].v = 0x7fb7f5004220, lru = 16, written
+
+ * * * Done mallocing a new page Malloc User Page * * * 
+Dumping Page Directory:
+pd[0].v   = 0x7fb7f24059d0
+pd[0].lru = 0
+
+Dumping Page Tables:
+Page Dir entry 0:
+pt[0].v = 0x7fb7f2704160, lru = 0, written
+pt[1].v = 0x7fb7f27041c0, lru = 1, written
+pt[2].v = 0x7fb7f50042b0, lru = 2
+pt[3].v = 0x7fb7f2504570, lru = 3, written
+pt[4].v = 0x7fb7f2405be0, lru = 4, written
+pt[5].v = 0x7fb7f27040d0, lru = 5, written
+pt[6].v = 0x7fb7f50040d0, lru = 6, written
+pt[7].v = 0x7fb7f5004190, lru = 7, written
+pt[8].v = 0x7fb7f5004160, lru = 8
+pt[9].v = 0x7fb7f26040d0, lru = 9
+pt[10].v = 0x7fb7f27041f0, lru = 10, written
+pt[11].v = 0x7fb7f2504240, lru = 11, written
+pt[12].v = 0x7fb7f5004280, lru = 12, written
+pt[13].v = 0x7fb7f2704250, lru = 13, written
+pt[14].v = 0x7fb7f2704100, lru = 14, written
+pt[15].v = 0x7fb7f50042e0, lru = 15, written
+pt[16].v = 0x7fb7f5004310, lru = 16, written
+
+ * * * Done mallocing a new page Malloc User Page * * * 
+Dumping Page Directory:
+pd[0].v   = 0x7fb7f24059d0
+pd[0].lru = 0
+
+Dumping Page Tables:
+Page Dir entry 0:
+pt[0].v = 0x7fb7f2704160, lru = 0, written
+pt[1].v = 0x7fb7f27041c0, lru = 1, written
+pt[2].v = 0x7fb7f2704280, lru = 2
+pt[3].v = 0x7fb7f2504570, lru = 3, written
+pt[4].v = 0x7fb7f2405be0, lru = 4, written
+pt[5].v = 0x7fb7f27040d0, lru = 5, written
+pt[6].v = 0x7fb7f50040d0, lru = 6, written
+pt[7].v = 0x7fb7f5004190, lru = 7, written
+pt[8].v = 0x7fb7f5004160, lru = 8
+pt[9].v = 0x7fb7f26040d0, lru = 9
+pt[10].v = 0x7fb7f27041f0, lru = 10, written
+pt[11].v = 0x7fb7f2504240, lru = 11, written
+pt[12].v = 0x7fb7f5004280, lru = 12, written
+pt[13].v = 0x7fb7f2704250, lru = 13, written
+pt[14].v = 0x7fb7f2704100, lru = 14, written
+pt[15].v = 0x7fb7f50042e0, lru = 15, written
+pt[16].v = 0x7fb7f5004310, lru = 16, written
+
+ * * * Done mallocing a new page Malloc User Page * * * 
+Dumping Page Directory:
+pd[0].v   = 0x7fb7f24059d0
+pd[0].lru = 0
+
+Dumping Page Tables:
+Page Dir entry 0:
+pt[0].v = 0x7fb7f2704160, lru = 0, written
+pt[1].v = 0x7fb7f27041c0, lru = 1, written
+pt[2].v = 0x7fb7f2704280, lru = 2
+pt[3].v = 0x7fb7f2504570, lru = 3, written
+pt[4].v = 0x7fb7f2405be0, lru = 4, written
+pt[5].v = 0x7fb7f27040d0, lru = 5, written
+pt[6].v = 0x7fb7f50040d0, lru = 6, written
+pt[7].v = 0x7fb7f5004190, lru = 7, written
+pt[8].v = 0x7fb7f5004160, lru = 8
+pt[9].v = 0x7fb7f26040d0, lru = 9
+pt[10].v = 0x7fb7f27041f0, lru = 10, written
+pt[11].v = 0x7fb7f2504240, lru = 11, written
+pt[12].v = 0x7fb7f27042b0, lru = 12, written
+pt[13].v = 0x7fb7f2704250, lru = 13, written
+pt[14].v = 0x7fb7f2704100, lru = 14, written
+pt[15].v = 0x7fb7f50042e0, lru = 15, written
+pt[16].v = 0x7fb7f5004310, lru = 16, written
+
+ * * * Done mallocing a new page Malloc User Page * * * 
+Dumping Page Directory:
+pd[0].v   = 0x7fb7f24059d0
+pd[0].lru = 0
+
+Dumping Page Tables:
+Page Dir entry 0:
+pt[0].v = 0x7fb7f2704190, lru = 0, written
+pt[1].v = 0x7fb7f27041c0, lru = 1, written
+pt[2].v = 0x7fb7f2704280, lru = 2
+pt[3].v = 0x7fb7f2504570, lru = 3, written
+pt[4].v = 0x7fb7f2405be0, lru = 4, written
+pt[5].v = 0x7fb7f27042e0, lru = 5, written
+pt[6].v = 0x7fb7f50040d0, lru = 6, written
+pt[7].v = 0x7fb7f5004190, lru = 7, written
+pt[8].v = 0x7fb7f5004160, lru = 8
+pt[9].v = 0x7fb7f26040d0, lru = 9
+pt[10].v = 0x7fb7f27041f0, lru = 10, written
+pt[11].v = 0x7fb7f2504240, lru = 11, written
+pt[12].v = 0x7fb7f27042b0, lru = 12, written
+pt[13].v = 0x7fb7f2704250, lru = 13, written
+pt[14].v = 0x7fb7f2704100, lru = 14, written
+pt[15].v = 0x7fb7f50042e0, lru = 15, written
+pt[16].v = 0x7fb7f5004310, lru = 16, written
+
+ * * * Done mallocing a new page Malloc User Page * * * 
+Dumping Page Directory:
+pd[0].v   = 0x7fb7f24059d0
+pd[0].lru = 0
+
+Dumping Page Tables:
+Page Dir entry 0:
+pt[0].v = 0x7fb7f2704190, lru = 0, written
+pt[1].v = 0x7fb7f27041c0, lru = 1, written
+pt[2].v = 0x7fb7f2704280, lru = 2
+pt[3].v = 0x7fb7f2504570, lru = 3, written
+pt[4].v = 0x7fb7f2405be0, lru = 4, written
+pt[5].v = 0x7fb7f27042e0, lru = 5, written
+pt[6].v = 0x7fb7f50040d0, lru = 6, written
+pt[7].v = 0x7fb7f5004190, lru = 7, written
+pt[8].v = 0x7fb7f5004160, lru = 8
+pt[9].v = 0x7fb7f26040d0, lru = 9
+pt[10].v = 0x7fb7f27041f0, lru = 10, written
+pt[11].v = 0x7fb7f2504240, lru = 11, written
+pt[12].v = 0x7fb7f27042b0, lru = 12, written
+pt[13].v = 0x7fb7f2704310, lru = 13, written
+pt[14].v = 0x7fb7f2704100, lru = 14, written
+pt[15].v = 0x7fb7f50042e0, lru = 15, written
+pt[16].v = 0x7fb7f5004310, lru = 16, written
+
+ * * * Done mallocing a new page Malloc User Page * * * 
+Dumping Page Directory:
+pd[0].v   = 0x7fb7f24059d0
+pd[0].lru = 0
+
+Dumping Page Tables:
+Page Dir entry 0:
+pt[0].v = 0x7fb7f2704190, lru = 0, written
+pt[1].v = 0x7fb7f27041c0, lru = 1, written
+pt[2].v = 0x7fb7f2704280, lru = 2
+pt[3].v = 0x7fb7f2504570, lru = 3, written
+pt[4].v = 0x7fb7f2704340, lru = 4
+pt[5].v = 0x7fb7f27042e0, lru = 5, written
+pt[6].v = 0x7fb7f50040d0, lru = 6, written
+pt[7].v = 0x7fb7f5004190, lru = 7, written
+pt[8].v = 0x7fb7f5004160, lru = 8
+pt[9].v = 0x7fb7f26040d0, lru = 9
+pt[10].v = 0x7fb7f27041f0, lru = 10, written
+pt[11].v = 0x7fb7f2504240, lru = 11, written
+pt[12].v = 0x7fb7f27042b0, lru = 12, written
+pt[13].v = 0x7fb7f2704310, lru = 13, written
+pt[14].v = 0x7fb7f2704100, lru = 14, written
+pt[15].v = 0x7fb7f50042e0, lru = 15, written
+pt[16].v = 0x7fb7f5004310, lru = 16, written
+
+ * * * Done mallocing a new page Malloc User Page * * * 
+Dumping Page Directory:
+pd[0].v   = 0x7fb7f24059d0
+pd[0].lru = 0
+
+Dumping Page Tables:
+Page Dir entry 0:
+pt[0].v = 0x7fb7f2704190, lru = 0, written
+pt[1].v = 0x7fb7f2704370, lru = 1
+pt[2].v = 0x7fb7f2704280, lru = 2
+pt[3].v = 0x7fb7f2504570, lru = 3, written
+pt[4].v = 0x7fb7f2704340, lru = 4
+pt[5].v = 0x7fb7f27042e0, lru = 5, written
+pt[6].v = 0x7fb7f50040d0, lru = 6, written
+pt[7].v = 0x7fb7f5004190, lru = 7, written
+pt[8].v = 0x7fb7f5004160, lru = 8
+pt[9].v = 0x7fb7f26040d0, lru = 9
+pt[10].v = 0x7fb7f27041f0, lru = 10, written
+pt[11].v = 0x7fb7f2504240, lru = 11, written
+pt[12].v = 0x7fb7f27042b0, lru = 12, written
+pt[13].v = 0x7fb7f2704310, lru = 13, written
+pt[14].v = 0x7fb7f2704100, lru = 14, written
+pt[15].v = 0x7fb7f50042e0, lru = 15, written
+pt[16].v = 0x7fb7f5004310, lru = 16, written
+
+* * * Paging Activity Statistics * * *
+number of memory accesses       = 370
+number of triples               = 371
+number of swap-ins (faults)     = 15
+number of swap-outs             = 47
+total number of pages malloced  = 71
+number of pages for Page Tables = 1
+number of page frames for user  = 17
+total memory cycles             = 312355
+cycles w/o Vmm                  = 3700
+cycles per swap_in              = 5000
+cycles per swap_out             = 5000
+last working set size           = 17
+max working set size ever       = 17
+max physical pages              = 17
+page size                       = 4096
+replacement algorithm           = random
+Address range                   =  . . . 

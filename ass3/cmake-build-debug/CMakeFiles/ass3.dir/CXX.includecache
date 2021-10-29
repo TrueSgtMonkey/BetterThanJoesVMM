@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/codythompson/Desktop/cody_stuff/sac_state/fall_2021_big/csc139/ass3/Page.h
+stdint.h
+-
+iostream
+-
+
+/Users/codythompson/Desktop/cody_stuff/sac_state/fall_2021_big/csc139/ass3/PageDirectory.h
+PageTable.h
+/Users/codythompson/Desktop/cody_stuff/sac_state/fall_2021_big/csc139/ass3/PageTable.h
+vector
+-
+
+/Users/codythompson/Desktop/cody_stuff/sac_state/fall_2021_big/csc139/ass3/PageTable.h
+Page.h
+/Users/codythompson/Desktop/cody_stuff/sac_state/fall_2021_big/csc139/ass3/Page.h
+cstdlib
+-
+iostream
+-
+vector
+-
+
+/Users/codythompson/Desktop/cody_stuff/sac_state/fall_2021_big/csc139/ass3/vmm.cpp
+vmm.h
+/Users/codythompson/Desktop/cody_stuff/sac_state/fall_2021_big/csc139/ass3/vmm.h
+
+/Users/codythompson/Desktop/cody_stuff/sac_state/fall_2021_big/csc139/ass3/vmm.h
+PageDirectory.h
+/Users/codythompson/Desktop/cody_stuff/sac_state/fall_2021_big/csc139/ass3/PageDirectory.h
+iostream
+-
+
