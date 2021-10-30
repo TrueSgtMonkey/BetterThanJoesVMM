@@ -1,0 +1,45 @@
+ * * * Done mallocing a new Page Table * * *
+Dumping Page Directory:
+pd[0].v   = 0x7ff1c9c059d0
+pd[0].lru = 0
+
+Dumping Page Tables:
+Page Dir Entry: 0
+
+ * * * Done mallocing a new page Malloc User Page * * * 
+Dumping Page Directory:
+pd[0].v   = 0x7ff1c9c059d0
+pd[0].lru = 0
+
+Dumping Page Tables:
+Page Dir entry 0:
+pt[0].v = 0x7ff1c9c05a10, lru = 0, written
+
+ * * * Done mallocing a new page Malloc User Page * * * 
+Dumping Page Directory:
+pd[0].v   = 0x7ff1c9c059d0
+pd[0].lru = 0
+
+Dumping Page Tables:
+Page Dir entry 0:
+pt[0].v = 0x7ff1c9c05a10, lru = 0, written
+pt[1].v = 0x7ff1c9e04090, lru = 1, written
+
+* * * Paging Activity Statistics * * *
+number of memory accesses       = 212
+number of triples               = 213
+number of swap-ins (faults)     = 0
+number of swap-outs             = 0
+total number of pages malloced  = 2
+number of pages for Page Tables = 1
+number of page frames for user  = 9
+total memory cycles             = 1538
+cycles w/o Vmm                  = 2120
+cycles per swap_in              = 5000
+cycles per swap_out             = 5000
+last working set size           = 2
+max working set size ever       = 2
+max physical pages              = 2
+page size                       = 4096
+replacement algorithm           = random
+Address range                   =  . . . 
