@@ -3,7 +3,7 @@
 #include <cstdlib>
 #include <time.h>
 
-#define ADDRESS 960000
+#define ADDRESS 69000
 
 int parseString(std::string s);
 

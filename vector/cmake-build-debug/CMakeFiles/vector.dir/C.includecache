@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/codythompson/Desktop/cody_stuff/sac_state/fall_2021_big/csc139/vector/list.h
+
+/Users/codythompson/Desktop/cody_stuff/sac_state/fall_2021_big/csc139/vector/main.c
+stdio.h
+-
+vector.h
+/Users/codythompson/Desktop/cody_stuff/sac_state/fall_2021_big/csc139/vector/vector.h
+list.h
+/Users/codythompson/Desktop/cody_stuff/sac_state/fall_2021_big/csc139/vector/list.h
+
+/Users/codythompson/Desktop/cody_stuff/sac_state/fall_2021_big/csc139/vector/vector.h
+stdlib.h
+-
+
