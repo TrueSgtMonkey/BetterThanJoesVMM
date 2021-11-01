@@ -7,12 +7,24 @@ struct node
     struct node* next;
 };
 
+int isDuplicate(struct node* list, int data);
 void del(struct node** list);
 void delAll(struct node** list);
 void add(struct node** list, int data);
 void printlist(struct node* list);
 int getHead(struct node* list);
 int getElement(struct node* list, int spot);
+
+int isDuplicate(struct node* list, int data)
+{
+    while(list != NULL)
+    {
+        if(list->data == data)
+            return 1;
+        list = list->next;
+    }
+    return 0;
+}
 
 int getHead(struct node* list)
 {
@@ -55,17 +67,20 @@ void add(struct node** list, int data)
         return;
     }
 
-    struct node* temp = *list;
-    while(temp->next != NULL)
+    if(isDuplicate(*list, data) == 0) //no dupes
     {
+        struct node* temp = *list;
+        while(temp->next != NULL)
+        {
+            temp = temp->next;
+        }
+        struct node* temp2 = temp;
         temp = temp->next;
+        temp = malloc(sizeof(struct node));
+        temp->next = NULL;
+        temp->data = data;
+        temp2->next = temp;
     }
-    struct node* temp2 = temp;
-    temp = temp->next;
-    temp = malloc(sizeof(struct node));
-    temp->next = NULL;
-    temp->data = data;
-    temp2->next = temp;
 }
 
 void printlist(struct node* list)

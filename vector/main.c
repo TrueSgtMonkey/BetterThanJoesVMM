@@ -6,6 +6,7 @@ void buildVecFromString();
 void buildVecFromScratch();
 void buildVecIntFromScratch();
 void linkedlistops();
+void checkListDupes();
 
 int main()
 {
@@ -14,8 +15,24 @@ int main()
     buildVecIntFromScratch();
 
     linkedlistops();
+    checkListDupes();
 
     return 0;
+}
+
+void checkListDupes()
+{
+    struct node* list = NULL;
+    add(&list, 1);
+    printlist(list);
+    add(&list, 1);
+    printlist(list);
+    for(int i = 0; i < 10; i++)
+    {
+        add(&list, i / 2);
+        printlist(list);
+    }
+    delAll(&list);
 }
 
 void linkedlistops()
