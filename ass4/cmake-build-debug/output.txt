@@ -1,0 +1,39 @@
+Enter triples: process id, time in ms, and priority:
+For example:
+1 12 0
+3  9 1
+2 99 9
+process 1 needs 12 ms and has priority 0, very high,
+process 3 needs  9 ms and has priority 1.
+and so on ...
+1 2 3
+2 1 2
+
+Process list in FCFS order as entered:
+1 2 3
+2 1 2
+End of List
+
+fcfs wait of p1 = 0
+fcfs wait of p2 = 2
+average wait for 2 procs = 1.000000
+fcfs turn-around time for p1 = 2
+fcfs turn-around time for p2 = 3
+average turn-around for 2 procs = 2.500000
+fcfs throughput for 2 procs = 0.666667 proc/ms
+ <><> end FCFS <><>
+
+Process list in HPF order:
+2 1 2
+1 2 3
+End of list.
+
+hpf wait of p2 = 0
+hpf wait of p1 = 1
+average wait for 2 procs = 0.500000
+hpf turn-around time for p2 = 1
+hpf turn-around time for p1 = 3
+average turn-around for 2 procs = 2.000000
+hpf throughput for 2 procs = 0.666667 proc/ms
+ <><> end HPF schedule <><>
+

@@ -1,36 +1,110 @@
 #include <stdio.h>
 #include "vector.h"
 #include "list.h"
+#include <stdlib.h>
+#include <time.h>
 
 void buildVecFromString();
 void buildVecFromScratch();
 void buildVecIntFromScratch();
 void linkedlistops();
-void checkListDupes();
+void checkListDupes(int check);
+void checkSortAdd();
+void addCheck(struct node** list, int data);
+void unsortedToSorted();
+int randy();
 
 int main()
 {
+    srand(time(0));
     buildVecFromString();
     buildVecFromScratch();
     buildVecIntFromScratch();
 
     linkedlistops();
-    checkListDupes();
+    checkListDupes(1);
+
+    //check what happens if we do not check for duplicates
+    checkListDupes(0);
+    checkSortAdd();
+    //for(int i = 0; i < 100; i++)
+    {
+        unsortedToSorted();
+    }
+
 
     return 0;
 }
 
-void checkListDupes()
+void unsortedToSorted()
 {
     struct node* list = NULL;
-    add(&list, 1);
+    struct node* list2 = NULL;
+
+    for(int i = 100; i >= 0; i--)
+    {
+        int n = (randy() % ((i > 0) ? i : 2));
+        addAny(&list, n);
+        addAny(&list2, n);
+    }
+    printf("unsorted list: ");
+    printlist(&list);
+
+    struct node* list3 = sortListWithDupes(&list);
+    printf("%d\n", list);
+    struct node* list4 = sortList(&list2);
+    printlist(&list3);
+    printlist(&list4);
+    delAll(&list);
+    delAll(&list2);
+    delAll(&list3);
+    delAll(&list4);
+}
+
+int randy()
+{
+    int n = (rand() << 17) | (rand() << 2) | (rand() >> 13);
+    return ((n < 0) ? (-n) : n);
+}
+
+void checkSortAdd()
+{
+    struct node* list = NULL;
+    addCheck(&list, 4);
+    addCheck(&list, 2);
+    addCheck(&list, 8);
+    addCheck(&list, 6);
+    addCheck(&list, 10);
+    addCheck(&list, 5);
+    addCheck(&list, 1);
+    addCheck(&list, 7);
+    addCheck(&list, 22);
+    addCheck(&list, 8);
+    delAll(&list);
+}
+
+void addCheck(struct node** list, int data)
+{
+    addSort(list, data);
     printlist(list);
-    add(&list, 1);
-    printlist(list);
+}
+
+//if check is anything but 0, we'll check for duplicates
+void checkListDupes(int check)
+{
+    struct node* list = NULL;
+    printf("adding 1: ");
+    (check != 0) ? add(&list, 1) : addAny(&list, 1);
+    printlist(&list);
+    printf("adding 1: ");
+    (check != 0) ? add(&list, 1) : addAny(&list, 1);
+    printlist(&list);
     for(int i = 0; i < 10; i++)
     {
-        add(&list, i / 2);
-        printlist(list);
+        int x = i/2;
+        printf("adding %d: ", x);
+        (check != 0) ? add(&list, x) : addAny(&list, x);
+        printlist(&list);
     }
     delAll(&list);
 }
@@ -42,13 +116,13 @@ void linkedlistops()
     {
         add(&list, i * 10);
     }
-    printlist(list);
+    printlist(&list);
     del(&list);
-    printlist(list);
+    printlist(&list);
     printf("%d\n", getHead(list));
     printf("%d\n", getElement(list, 5));
     delAll(&list);
-    printlist(list);
+    printlist(&list);
 }
 
 void buildVecFromString()

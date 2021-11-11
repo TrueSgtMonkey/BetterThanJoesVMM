@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/codythompson/Desktop/cody_stuff/sac_state/fall_2021_big/csc139/ass4/list.h
+stdlib.h
+-
+stdio.h
+-
+
+/Users/codythompson/Desktop/cody_stuff/sac_state/fall_2021_big/csc139/ass4/main.c
+stdio.h
+-
+list.h
+/Users/codythompson/Desktop/cody_stuff/sac_state/fall_2021_big/csc139/ass4/list.h
+schedulers.h
+/Users/codythompson/Desktop/cody_stuff/sac_state/fall_2021_big/csc139/ass4/schedulers.h
+
+/Users/codythompson/Desktop/cody_stuff/sac_state/fall_2021_big/csc139/ass4/schedulers.h
+list.h
+/Users/codythompson/Desktop/cody_stuff/sac_state/fall_2021_big/csc139/ass4/list.h
+stdio.h
+-
+vector.h
+/Users/codythompson/Desktop/cody_stuff/sac_state/fall_2021_big/csc139/ass4/vector.h
+
+/Users/codythompson/Desktop/cody_stuff/sac_state/fall_2021_big/csc139/ass4/vector.h
+stdio.h
+-
+stdlib.h
+-
+
